@@ -275,7 +275,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 /*-- //slider --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/1.jpg) no-repeat center;
+    background: url(http://oy3jbyryn.bkt.clouddn.com/1.jpg) no-repeat center;
     background-size: cover;
 }
 .w3layouts-banner-top1{
@@ -283,11 +283,11 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     background-size: cover;	
 }
 .w3layouts-banner-top2{
-	background: url(../images/3.jpg) no-repeat center;
+	background: url(http://oy3jbyryn.bkt.clouddn.com/3.jpg) no-repeat center;
     background-size: cover;	
 }
 .w3layouts-banner-top3{
-	background: url(../images/4.jpg) no-repeat center;
+	background: url(http://oy3jbyryn.bkt.clouddn.com/4.jpg) no-repeat center;
     background-size: cover;	
 }
 
@@ -498,7 +498,7 @@ i.w3-agile-share{
 /*-- //blog --*/
 /*--services --*/
 .packages {
-    background: url(../images/e.jpg)no-repeat center;
+    background: url(http://oy3jbyryn.bkt.clouddn.com/e.jpg)no-repeat center;
 	background-size:cover;
 }
 .w3-package-grids {
@@ -1148,7 +1148,7 @@ ul.social-icons li {
 /*-- testimonials --*/
 
 .testimonials {
-    background: url(../images/19.jpg);
+    background: url(http://oy3jbyryn.bkt.clouddn.com/19.jpg);
 	background-size:cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
